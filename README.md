@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=beawy7&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 
 
 <img align="left" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
